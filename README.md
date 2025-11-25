@@ -124,19 +124,19 @@ plt.show()
 
 ### INPUT IMAGES :
 
-![image](https://github.com/user-attachments/assets/00ea77ea-8e44-4a29-89bc-3c910959bae5)
+<img width="810" height="263" alt="image" src="https://github.com/user-attachments/assets/2f145750-3468-4efd-af67-fc1b65fb50fc" />
 
-![image](https://github.com/user-attachments/assets/45db3a00-f9e5-4ca7-9e46-ced3afc1cb0a)
 
 ### FACE DETECTION :
 
-![image](https://github.com/user-attachments/assets/30d19b40-2f43-4988-bf6f-6d67113ac6cd)
+<img width="406" height="517" alt="image" src="https://github.com/user-attachments/assets/551059c4-d47b-4e72-8683-48ab758feb0d" />
+<img width="655" height="985" alt="Screenshot 2025-11-25 085553" src="https://github.com/user-attachments/assets/7b35a774-9930-4768-8ff9-e49a7a51accd" />
 
-![image](https://github.com/user-attachments/assets/1d612beb-8648-4eb2-9295-9ea48d9852e0)
 
 ### EYE DETECTION :
 
-![image](https://github.com/user-attachments/assets/d2239d93-723f-423f-808c-ec06fe957518)
+<img width="507" height="928" alt="Screenshot 2025-11-25 084446" src="https://github.com/user-attachments/assets/fcdcee71-b9a6-4c0d-92c2-a8477a0e069b" />
+
 
 ## Result :
 
